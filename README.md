@@ -30,7 +30,7 @@ Follow these steps to set up and run the project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ayush-7083/future-khat.git
-   cd laya-hun-khat
+   cd future-khat
    
 2. Install dependencies:
 ```bash
