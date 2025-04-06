@@ -82,4 +82,4 @@ git push origin feature-name
 5. Open a pull request.
 
 ### License
-© 2024 Laya Hun Khat. All rights reserved.
+© 2024 Future Khat. All rights reserved.
