@@ -1,4 +1,4 @@
-# live link: https://Futurekhat.netlify.app/
+# live link: https://Future-khat.vercel.app/
 
 # Future Khat
 
